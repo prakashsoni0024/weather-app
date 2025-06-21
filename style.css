@@ -21,6 +21,12 @@ body {
     text-align: center;
     width: 400px;
   }
+
+  .weather-container img {
+    width: 60px;
+    height: auto;
+    margin-bottom: auto;
+  }
   h1 {
     color: #203a43;
     margin-bottom: 15px;
